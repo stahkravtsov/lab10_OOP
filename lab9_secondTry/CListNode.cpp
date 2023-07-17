@@ -1,5 +1,5 @@
 #include "CListNode.h"
-
+//domv
 template <class T>
 CListNode<T>::CListNode(): m_next(nullptr) { }
 
