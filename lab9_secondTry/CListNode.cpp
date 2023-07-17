@@ -8,7 +8,7 @@ CListNode<T>::CListNode(const T& data): m_data(data), m_next(nullptr) { }
 //;laksdgf;lkjash
 template <class T>
 CListNode<T>::CListNode(const T& data, CListNode<T>* next): m_data(data), m_next(next) { }
-
+//some more changes
 template <class T>
 CListNode<T>::~CListNode() { }
 
